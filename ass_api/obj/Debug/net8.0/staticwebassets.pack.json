@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\bo.jpg",
+      "PackagePath": "staticwebassets\\images\\bo.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\bong_cai_xanh.jpg",
+      "PackagePath": "staticwebassets\\images\\bong_cai_xanh.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\ca_rot.jpg",
+      "PackagePath": "staticwebassets\\images\\ca_rot.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\cai_xoan.jpg",
+      "PackagePath": "staticwebassets\\images\\cai_xoan.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\chuoi.png",
+      "PackagePath": "staticwebassets\\images\\chuoi.png"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\dau_tay.jpg",
+      "PackagePath": "staticwebassets\\images\\dau_tay.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\hat_chia.jpg",
+      "PackagePath": "staticwebassets\\images\\hat_chia.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\hat_de.jpg",
+      "PackagePath": "staticwebassets\\images\\hat_de.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\hat_hanh_nhan.jpg",
+      "PackagePath": "staticwebassets\\images\\hat_hanh_nhan.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\hat_macca.jpg",
+      "PackagePath": "staticwebassets\\images\\hat_macca.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\ot_chuong.jpg",
+      "PackagePath": "staticwebassets\\images\\ot_chuong.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\rau_chan_vit.jpg",
+      "PackagePath": "staticwebassets\\images\\rau_chan_vit.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\tao.jpg",
+      "PackagePath": "staticwebassets\\images\\tao.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\viet_quat.jpg",
+      "PackagePath": "staticwebassets\\images\\viet_quat.jpg"
+    },
+    {
+      "Id": "D:\\Csharp_5\\ass_test\\ass_api\\wwwroot\\images\\yen_mach.jpg",
+      "PackagePath": "staticwebassets\\images\\yen_mach.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ass_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ass_api.props",
+      "PackagePath": "build\\ass_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ass_api.props",
+      "PackagePath": "buildMultiTargeting\\ass_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ass_api.props",
+      "PackagePath": "buildTransitive\\ass_api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

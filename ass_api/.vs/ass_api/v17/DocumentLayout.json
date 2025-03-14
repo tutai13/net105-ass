@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp_5\\ass_test\\ass_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\migrations\\20250227172032_updatetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:migrations\\20250227172032_updatetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\hoadondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\hoadondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\ass_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:ass_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\migrations\\20250222033444_updatecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:migrations\\20250222033444_updatecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\migrations\\20250215031718_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:migrations\\20250215031718_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\migrations\\20250218144430_updateloaiandproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:migrations\\20250218144430_updateloaiandproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250218144234_updateLoaiAndProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250218144234_updateLoaiAndProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|d:\\csharp_5\\ass_test\\ass_api\\migrations\\20250225145810_updatehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9E4B5-D236-42AE-AFA5-51D65AF306C4}|ass_api.csproj|solutionrelative:migrations\\20250225145810_updatehoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:04:51.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:36:53.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoaisController.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\LoaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoaisController.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\LoaisController.cs",
+              "RelativeToolTip": "Controllers\\LoaisController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:09:45.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAWwKsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:14:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:13:33.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDon.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Models\\HoaDon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:28:59.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAowIsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:13:27.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswHcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:08:53.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartsController.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "Controllers\\CartsController.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAiwNsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:23:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAwIYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:57:03.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Loai.cs",
+              "RelativeDocumentMoniker": "Models\\Loai.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Loai.cs",
+              "RelativeToolTip": "Models\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:37:52.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250227172032_updateTes.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250227172032_updateTes.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250227172032_updateTes.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250227172032_updateTes.cs",
+              "RelativeToolTip": "Migrations\\20250227172032_updateTes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:20:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDonDetail.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\HoaDonDetail.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDonDetail.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\HoaDonDetail.cs",
+              "RelativeToolTip": "Models\\HoaDonDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:31:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:17:54.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ass_api.http",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\ass_api.http",
+              "RelativeDocumentMoniker": "ass_api.http",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\ass_api.http",
+              "RelativeToolTip": "ass_api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-15T02:20:05.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:09:39.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbcontext.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:58:14.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250225145810_updateHoaDon.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250225145810_updateHoaDon.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250225145810_updateHoaDon.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250225145810_updateHoaDon.cs",
+              "RelativeToolTip": "Migrations\\20250225145810_updateHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:58:10.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250222033444_updateCart.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250222033444_updateCart.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250222033444_updateCart.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250222033444_updateCart.cs",
+              "RelativeToolTip": "Migrations\\20250222033444_updateCart.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T03:34:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250215031718_init.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250215031718_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250215031718_init.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250215031718_init.cs",
+              "RelativeToolTip": "Migrations\\20250215031718_init.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T03:17:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:38:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250218144430_updateLoaiAndProduct.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250218144430_updateLoaiAndProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250218144430_updateLoaiAndProduct.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250218144430_updateLoaiAndProduct.cs",
+              "RelativeToolTip": "Migrations\\20250218144430_updateLoaiAndProduct.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:44:30.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T08:56:34.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250218144234_updateLoaiAndProduct.cs",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250218144234_updateLoaiAndProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250218144234_updateLoaiAndProduct.cs",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Migrations\\20250218144234_updateLoaiAndProduct.cs",
+              "RelativeToolTip": "Migrations\\20250218144234_updateLoaiAndProduct.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:42:34.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Csharp_5\\ass_test\\ass_api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Csharp_5\\ass_test\\ass_api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T09:45:30.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
