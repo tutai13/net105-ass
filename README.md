@@ -43,15 +43,6 @@ Hệ thống hỗ trợ **quản lý sản phẩm, danh mục, giỏ hàng, đơ
 ---
 
 ## 📦 Cài đặt & chạy thử
-
-### Backend
-```bash
-cd backend
-dotnet restore
-dotnet ef database update
-dotnet run
-```
-
 ### Frontend
 ```bash
 cd frontend
